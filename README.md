@@ -94,5 +94,5 @@ docker run -p 8501:8501 resume-matching-platform
 
 Nếu bạn có bất kỳ câu hỏi nào về dự án này, vui lòng liên hệ với tôi qua:
 - Email: duonghiep59.it@gmail.com
-- Linkedin: https://www.linkedin.com/in/duonghiepit/# resume-matching-platform
+- Linkedin: https://www.linkedin.com/in/duonghiepit/
 # resume-matching-platform
